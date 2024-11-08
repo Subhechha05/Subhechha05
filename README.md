@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhechha05
+- 👋 Hi, I’m Subhechha Mondal
 - 👀 I’m interested in ...
 -    I'm currently persuing BCA (Bachelor of Computer Application)
 - 🌱 I’m currently learning ...SQL,Power BI
